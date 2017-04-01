@@ -1,0 +1,190 @@
+É=======================»
+º KKND-Editor, ver 1.10 º
+È=======================¼
+
+Unit-Editor for 'Krush, Kill And Destroy!'
+
+****************************************************************************
+* Copyright Notice and Disclaimer                                          *
+****************************************************************************
+
+ * 'Krush, Kill and Destroy'(KKND) is a trademark of Melbourne House,
+   and is so acknowledged. Any trademarks not mentioned here are still
+   acknowledged.
+
+ * The author of KKND-Editor is in no way affliated with the makers/
+   publishers of KKND nor is KKND-Editor endorsed by them.
+
+ * You use KKND-Editor at your OWN risk. If anything happens as a
+   result of you using this product, I am in no way accountable for any
+   damage caused.
+
+ * KKND-Editor is freeware and may be distributed freely so long as
+   its files are not removed or altered in any way.
+
+****************************************************************************
+
+What's NEW?
+------------
+in ver 1.10 :
+  
+  - KKND-Editor should now be able to work with almost all versions 
+    of KKND - meaning those in other languages, eg. German, and 
+    possibly, future versions.
+
+*********************************
+* Special Note on game-crashes! *
+*********************************
+The game is known to crash/reboot under certain circumstances when
+you overedit your stats with extremely high or low values. For example,
+do not excessively increase the range of your rockets/flames and
+decrease the delay of fire such that too many rockets or flames will
+appear at a single shot. This is one sure way to crash the game.
+In fact, most stats that are non-zero by default, are known to crash the
+game when changed to 0, so KKND-Editor does not allow 0 value inputs.
+
+****************************************************************************
+
+1.Introduction
+--------------
+KKND-Editor allows you to tip the near-impossible odds by giving you
+options to modify your units' default strengths and prowess in
+KKND. KKND-Editor is menu-driven and is relatively easy to use as it 
+was specially designed for the frustrated player to wreak vengeance
+on the game that has been rather dubiously touted as a Red Alert/C&C
+-'killer' by some. (Not by a longshot, IMHO! ;)
+
+So, go forth, and massacre! Give the mothers of your enemies' a great
+reason to mourn for and cry over - give 'em all hell.
+
+
+2.Requirements
+--------------
+You must have a working copy of KKND already installed on your system.
+
+KKND-Editor was only tested in DOS but should not have big problems
+working on Windows 95 driven-platforms.
+
+
+3.Installation
+--------------
+For KKND-Editor to run properly, simply ensure that the files
+'KKNDEDIT.EXE' and 'KKNDEDIT.DOC' were copied/unzipped into your
+KKND directory.
+
+
+4.Selecting a unit-category
+---------------------------
+In the main-menu, you will be presented with 5 unit-classes.
+
+They are :      1. Infantry
+		2. Vehicles
+		3. Aircraft
+		4. Buildings
+		5. War Mechs
+
+Move the highlight bar with your cursor-keys over an item of your
+choice and hit <Enter> to go to that specific unit-editor.
+
+
+5.Unit-Editing
+--------------
+In any unit-editor menu, you will be presented with a list of
+units belonging to the selected category in a box on the far left.
+Use your cursor-keys to move the highlight bar in the list.
+
+You will be see another box on its right with the highlighted unit's
+stats displayed in it. This is called the stats-box.
+
+Currently, the following stats of a unit can be edited.
+
+		<a> Cost
+		<b> Hit Points
+		<c> Speed
+		<d> Reload Time
+		<e> Turn Speed
+		<f> Visual Range
+		<g> Weapon Range
+		<h> Accuracy
+		<i> Production Delay
+
+To edit, press the key (a-i) that corresponds to the bracketed, lower-
+case alphabet before each stats-name. Input its new value and press
+<Enter> to confirm, or <Esc> to abort entry.
+
+While in the unit-editor menu, pressing <F1> saves all changes.
+Changes may also be saved at the main-menu with the same key.
+
+
+6.Reloading values
+------------------
+You may reload the game's default(original) stats for a specific
+unit by pressing <F2> in the unit-editor menu. However, if you are
+in the main-menu, pressing <F2> will reload the default stats for
+ALL units in ALL unit-classes.
+
+By pressing <F3> in the unit-editor menu, you will UNDO all un-saved
+changes to the stats of a currently selected unit. If <F3> was pressed
+in the main-menu itself, this will undo any changes to ALL units in
+ALL unit-classes. Note that changes can only be permanently retained
+by saving it - press <F1>.
+
+
+7.Future Improvements
+---------------------
+If sheer silliness gets the better of me, the future versions of
+KKND-Editor may include the following features :
+
+	- armanent/weapons editing
+	- secret-weapons availability
+	- tech-level editing
+	- better graphics (and brighter colors)
+	- mouse-driven
+
+
+8.Epilogue
+----------
+Despite being another of one of those avid realtime-strategy gamers, 
+I find KKND difficult to play, to an extent of being plain silly at
+times. With corny actings and lousy plots aside, I feel that KKND
+barely makes an adequate C&C clone, much less 'killer' IMHO. :(
+
+In this game, very unfair odds are stacked against the player even
+in the early stages of most scenarios. One simply can't help but
+wonder if this is a calculated design-move by the game-designers to
+camouflage an otherwise too obvious, inferior A.I of the computer
+opponents as they mount 'mob-attacks' to overwhelm you before you
+can even build a proper defense. One thing for sure, you are greatly
+outgunned, outnumbered and out-of-time in the game.
+
+I also read posts by several gamers in newsgroups, who share similar
+sentiments - KKND is just too ridiculously difficult to enjoy.
+So far, most KKND gamers I see, are plain stuck because no one seems 
+to know the 'cheat-keys/codes' or if they actually even exist at all!
+
+In the light of these circumstances, KKND-Editor was quickly coded
+in a span of 2 days and was done more out of angst than love for KKND.
+To be frank, I coded KKND-Editor mainly to give all those frustrated
+gamers (including myself) a chance to kick the blinking beejeepers
+out of the game, as I am not one who'd pay good money for a game, no
+matter how lame, just to lose at it. And neither would you, I hope.
+
+Note that it is impossible for me to fully test KKND-Editor under
+all kinds of conditions in such short time. However, I have yet to
+stumble upon any major bugs in KKND-Editor and it seems to run fine
+with my game.
+
+Anyways, feel free to send me your bug-reports and comments, you will
+be updated on any new releases of KKND-Editor. Also, special thanks to
+those who have contacted me.
+
+Meanwhile, edit wisely and have fun.
+
+
+Regards.
+
+Brandon Shen/Pand of ModeXiX, Singapore
+- 7th April 1997
+
+email : jotun@audiophile.com
+url   : http://www.trailerpark.com/phase2/pand/index.htm

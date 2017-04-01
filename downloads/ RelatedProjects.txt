@@ -1,0 +1,83 @@
+Related projects
+3D Real-Time Strategy Game
+
+0AD:
+
+    A free, open-source game of ancient warfare.
+    http://play0ad.com 
+
+Warzone 2100:
+
+    A Free And Open Source Real-Time Strategy Game.
+    http://wz2100.net 
+
+MegaGlest?:
+
+    MegaGlest? is an entertaining free (freeware and free software) and open source cross-platform 3D real-time strategy (RTS) game, where you control the armies of one of seven different factions: Tech, Magic, Egypt, Indians, Norsemen, Persian or Romans.
+    http://megaglest.org 
+
+Glest:
+
+    Glest is a 3D real-time strategy game. Fully customizable using XML and a set of tools.
+    http://www.glest.org http://sourceforge.net/projects/glest/ 
+
+Spring Engine:
+
+    Spring is a free RTS engine developed for Windows, Linux and Mac OS X.
+    http://springrts.com 
+
+Dark Reign 2:
+
+    http://code.google.com/p/darkreign2/ 
+
+2D Real-Time Strategy Game
+
+OpenRA:
+
+    OpenRA is a Libre/Free Real Time Strategy game engine supporting early Westwood games like Command & Conquer and Command & Conquer: Red Alert.
+    http://openra.res0l.net 
+
+FreeRA:
+
+    FreeRA is a reimplementation of the gaming engine of the classic real time strategy game Command & Conquer RedAlert?. WARNING: To play this game you need the data (.mix) files from the original Westwood Red Alert 1 game.
+    http://freera.sourceforge.net 
+
+Stargus:
+
+    Stargus is a Starcraft Mod that allows you to play Starcraft with the Stratagus engine, as opposed to play it with the original Starcraft one.
+    http://stargus.stratagus.com 
+
+Bos Wars:
+
+    Bos Wars is a futuristic real time strategy game (RTS).
+    http://www.boswars.org 
+
+Globulation 2:
+
+    Globulation 2 is an innovative Real-Time Strategy (RTS) game which reduces micro-management by automatically assigning tasks to units.
+    http://globulation2.org 
+
+FreeCNC:
+
+    FreeCNC is an open-source implementation of the Command & Conquer game engine, written in SDL. It will support the original C&C graphics and audio file formats.
+    http://freecnc.org 
+
+Dune Dynasty:
+
+    Dune Dynasty is a continuation of the classic real-time strategy game Dune II by Westwood Studios. It is not a remake. It builds upon the original game engine as reverse-engineered by the OpenDUNE project.
+    http://dunedynasty.sourceforge.net 
+
+Dune Legacy:
+
+    Updated clone of Westood Studios' Dune2 which uses data files from the original game. New features include multiple unit selection/control, high resolution support, multiplayer gaming, improved gui.
+    http://dunelegacy.sourceforge.net 
+
+Widelands:
+
+    Widelands is an open source (GPLed) real-time strategy game. It is built upon the SDL and other open source libraries and is (and will always be) under heavy development. If you knew Settlers I & II™ (© Bluebyte), then you already have a rough idea what Widelands is all about because widelands is heavily inspired by those two games.
+    http://wl.widelands.org 
+
+Dark Oberon:
+
+    Free and open-source multi-player RTS.
+    http://dark-oberon.sourceforge.net
